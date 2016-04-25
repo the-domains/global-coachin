@@ -1,14 +1,28 @@
-layout_spectrum: 0.9596744
-color:
-  saturation: 0.07260186
-  lightness: 0.9729819
-  brandStrength: 0.2545315
-  brandColors:
-    - '#040504'
-    - '#6E7778'
-    - '#A3BDE9'
-    - '#28397F'
-    - '#801827'
-  rhythmicContrast: 0.6496895
-typography_spectrum: 0.7583937
 name: Global Coaching
+favicon: null
+layout_spectrum: 0.9596744
+typography_spectrum: 0.7583937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#050702'
+    - '#b69f80'
+    - '#fce4c0'
+    - '#806240'
+    - '#f5d044'
+  brandStrength: 0.2545315
+  lightness: 0.9729819
+  saturation: 0.07260186
+  rhythmicContrast: 0.6496895
+purpose: []
